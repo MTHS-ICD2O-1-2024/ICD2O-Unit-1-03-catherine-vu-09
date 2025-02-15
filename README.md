@@ -3,8 +3,6 @@
 
 [![Mr Coxall's Super Linter](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-catherine-vu-09/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-catherine-vu-09/actions)
 
-[!Deploy.Pages](https://github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-catherine-vu-09/workflows/Deploy%20Pages/bage.svg)](https://)github.com/MTHS-ICD2O-1-2024/ICD2O-Unit-1-03-catherine-vu-09/actions)
-
 This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
 
 ---
